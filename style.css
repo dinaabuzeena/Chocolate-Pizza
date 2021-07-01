@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;
+}
+#smallpics {
+    float: right;
+}
+
+
+#font{
+    font-family: 'Yellowtail', cursive;
+}
+#smallpic{
+    display: inline;
+}
+#logo{
+    display: inline;
+}
+#header{
+    display: inline;
+}
+h1{font: bolder;}
+
+#paragraph{
+    font-family: 'Big Shoulders Display', cursive;
+}
+#bigimage{
+    
+        width: 100%;
+        z-index: 0;
+}
+
+#right{
+    width: 40%;
+   display: inline-block;
+}
+#left{
+    width: 40%;
+    display: inline-block;
+}
+#right1{
+    width: 40%;
+  float: right;
+}
+#left1 {
+    width: 40%;
+    float: left;
+}
+footer{
+    text-align: center;
+}
